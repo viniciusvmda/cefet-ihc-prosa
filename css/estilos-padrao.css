@@ -1,0 +1,13 @@
+body, h1 {
+  margin: 0;
+}
+
+main {}
+
+.item-menu {
+  width: 90%;
+  height: 5em;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
