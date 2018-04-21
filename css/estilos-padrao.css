@@ -2,12 +2,17 @@ body, h1 {
   margin: 0;
 }
 
-main {}
+header {
+  display: flex;
+  justify-content: center;
+}
 
 .item-menu {
   width: 90%;
   height: 5em;
+  margin: 1.5em auto 0 auto;
   margin-left: auto;
   margin-right: auto;
-  display:block;
+  display:flex;
+  justify-content: center;
 }
